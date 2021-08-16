@@ -10,5 +10,7 @@ namespace Computadora.Entidades
     {
         private String color;
         private String marca;
+        private String motherboard;
+        private int ram;
     }
 }
