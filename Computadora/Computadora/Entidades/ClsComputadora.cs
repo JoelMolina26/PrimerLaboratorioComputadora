@@ -8,5 +8,7 @@ namespace Computadora.Entidades
 {
     class ClsComputadora
     {
+        private String color;
+        private String marca;
     }
 }
